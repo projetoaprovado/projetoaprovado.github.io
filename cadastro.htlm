@@ -1,4 +1,3 @@
-<main>
 <section style="display:flex; align-items:center; justify-content:center; 
                 min-height:100vh; padding:40px 24px;">
   <div style="background:var(--surf-2); border:1px solid var(--brd-1);
